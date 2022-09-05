@@ -1,0 +1,28 @@
+.slot {
+    width: 150px;
+    padding: 10px 10px;
+    cursor: pointer;
+    border: 1px solid lightgray;
+    color: #7600bc;
+    font-weight: 500;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.filled {
+    background-color: #e1d0f4;
+    font-weight: 500;
+    border: none;
+    color: black;
+}
